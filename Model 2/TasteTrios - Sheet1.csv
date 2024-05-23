@@ -1,0 +1,608 @@
+Ingredient 1,Ingredient 2,Ingredient 3,Classification Output
+Pumpkin,Allspice,Bay Leaf,Highly Compatible
+Pumpkin,Cinnamon,Ginger,Highly Compatible
+Pumpkin,Pasta,Butter,Moderately Compatible
+Pumpkin,Apples,Curry,Moderately Compatible
+Pumpkin,Brown Sugar,Pine Nuts,Highly Compatible
+Pumpkin,Garlic,Butter,Highly Compatible
+Pumpkin,Chile Peppers,Garlic,Moderately Compatible
+Pumpkin,Cream Cheese,Orange,Compatible
+Pumpkin,Pumpkin Seeds,Cream Cheese,Highly Compatible
+Pumpkin,Honey,Balsamic Vinegar,Highly Compatible
+Pumpkin,Olive Oil,Rosemary,Highly Compatible
+Mushroom,Thyme,Garlic,Highly Compatible
+Mushroom,Butter,Sage,Highly Compatible
+Mushroom,Onion,Rosemary,Moderately Compatible
+Mushroom,Cream,Parmesan Cheese,Highly Compatible
+Mushroom,Red Wine,Shallots,Highly Compatible
+Mushroom,Spinach,Feta Cheese,Moderately Compatible
+Mushroom,Balsamic Vinegar,Cherry Tomatoes,Compatible
+Mushroom,Soy Sauce,Ginger,Highly Compatible
+Mushroom,Lemon,Dill,Highly Compatible
+Mushroom,Bacon,Cheddar Cheese,Moderately Compatible
+Mushroom,Olive Oil,Thyme,Moderately Compatible
+Mushroom,Cream Cheese,Chives,Highly Compatible
+Mushroom,Garlic,Lemon Zest,Highly Compatible
+Mushroom,White Wine,Tarragon,Moderately Compatible
+Mushroom,Pesto,Sun-dried Tomatoes,Highly Compatible
+Mushroom,Soy Sauce,Green Onions,Highly Compatible
+Mushroom,Blue Cheese,Walnuts,Moderately Compatible
+Mushroom,Tomato,Basil,Moderately Compatible
+Mushroom,Dijon Mustard,Thyme,Highly Compatible
+Mushroom,Cream,Nutmeg,Highly Compatible
+Mushroom,Olive Oil,Garlic,Highly Compatible
+Mushroom,Caramelized Onions,Gruyere Cheese,Moderately Compatible
+Mushroom,Cumin,Coriander,Highly Compatible
+Mushroom,Spinach,Lemon,Moderately Compatible
+Mushroom,Parmesan Cheese,Lemon Pepper,Highly Compatible
+Mushroom,Soy Sauce,Sesame Seeds,Moderately Compatible
+Mushroom,Sriracha,Green Onions,Highly Compatible
+Mushroom,Gouda Cheese,Thyme,Moderately Compatible
+Mushroom,Basil,Pine Nuts,Highly Compatible
+Mushroom,Honey,Mustard,Moderately Compatible
+Tomato,Basil,Mozzarella Cheese,Highly Compatible
+Tomato,Olive Oil,Garlic,Highly Compatible
+Tomato,Balsamic Vinegar,Red Onion,Highly Compatible
+Tomato,Feta Cheese,Kalamata Olives,Highly Compatible
+Tomato,Avocado,Cilantro,Highly Compatible
+Tomato,Goat Cheese,Honey,Moderately Compatible
+Tomato,Capers,Anchovies,Moderately Compatible
+Tomato,Spinach,Parmesan Cheese,Highly Compatible
+Tomato,Garlic,Rosemary,Moderately Compatible
+Tomato,Pesto,Pine Nuts,Highly Compatible
+Tomato,Red Pepper,Cumin,Highly Compatible
+Tomato,Red Wine,Thyme,Moderately Compatible
+Tomato,Dijon Mustard,Shallots,Highly Compatible
+Tomato,Corn,Black Beans,Moderately Compatible
+Tomato,Cheddar Cheese,Jalapeno,Highly Compatible
+Tomato,Cucumber,Red Onion,Highly Compatible
+Tomato,Basil,Mozzarella Sticks,Highly Compatible
+Tomato,Garlic,Olive Tapenade,Highly Compatible
+Tomato,Cream Cheese,Smoked Salmon,Highly Compatible
+Tomato,Feta Cheese,Watermelon,Moderately Compatible
+Tomato,Pesto,Sun-dried Tomatoes,Highly Compatible
+Tomato,Avocado,Red Onion,Moderately Compatible
+Tomato,Brie Cheese,Arugula,Highly Compatible
+Tomato,Cilantro,Lime,Highly Compatible
+Tomato,Buffalo Mozzarella,Prosciutto,Highly Compatible
+Tomato,Roasted Garlic,Balsamic Glaze,Highly Compatible
+Tomato,Ricotta Cheese,Lemon Zest,Moderately Compatible
+Tomato,Grilled Zucchini,Pesto,Highly Compatible
+Tomato,Smoked Paprika,Queso Fresco,Highly Compatible
+Tomato,Sundried Tomato Pesto,Basil,Highly Compatible
+Tomato,Shrimp,Lemon,Highly Compatible
+Tomato,Artichoke Hearts,Olives,Highly Compatible
+Tomato,Hummus,Cucumber,Moderately Compatible
+Tomato,Basil,Garlic Butter,Highly Compatible
+Tomato,Ricotta Salata,Pine Nuts,Moderately Compatible
+Tomato,Feta Cheese,Dill,Highly Compatible
+Tomato,Goat Cheese,Pear,Highly Compatible
+Tomato,Smoked Salmon,Cream Cheese,Highly Compatible
+Tomato,Red Pepper Flakes,Parmesan Cheese,Moderately Compatible
+Tomato,Caprese Salad,Balsamic Glaze,Highly Compatible
+Tomato,Mozzarella Balls,Green Pesto,Highly Compatible
+Tomato,Goat Cheese,Pomegranate Seeds,Moderately Compatible
+Tomato,Roasted Eggplant,Tahini,Highly Compatible
+Tomato,Buffalo Sauce,Blue Cheese,Highly Compatible
+Tomato,Cheddar Cheese,Bacon,Highly Compatible
+Tomato,Cucumber,Dill,Moderately Compatible
+Tomato,Pepperoni,Red Onion,Highly Compatible
+Cucumber,Tomato,Red Onion,Highly Compatible
+Cucumber,Feta Cheese,Kalamata Olives,Highly Compatible
+Cucumber,Dill,Greek Yogurt,Highly Compatible
+Cucumber,Avocado,Lime,Highly Compatible
+Cucumber,Smoked Salmon,Cream Cheese,Highly Compatible
+Cucumber,Mint,Watermelon,Moderately Compatible
+Cucumber,Red Pepper,Hummus,Highly Compatible
+Cucumber,Radish,Cilantro,Highly Compatible
+Cucumber,Cherry Tomatoes,Mozzarella,Highly Compatible
+Cucumber,Garlic,Lemon,Highly Compatible
+Cucumber,Tzatziki Sauce,Red Onion,Highly Compatible
+Cucumber,Strawberries,Balsamic Glaze,Moderately Compatible
+Cucumber,Goat Cheese,Walnuts,Moderately Compatible
+Cucumber,Feta Cheese,Spinach,Highly Compatible
+Cucumber,Yogurt,Berries,Moderately Compatible
+Cucumber,Red Onion,Avocado,Moderately Compatible
+Cucumber,Cream Cheese,Chives,Highly Compatible
+Cucumber,Dijon Mustard,Honey,Moderately Compatible
+Cucumber,Pineapple,Jalapeno,Moderately Compatible
+Cucumber,Balsamic Vinegar,Tomato,Highly Compatible
+Pineapple,Coconut,Mango,Highly Compatible
+Pineapple,Ham,Swiss Cheese,Highly Compatible
+Pineapple,Jalapeno,Cilantro,Highly Compatible
+Pineapple,Chicken,Teriyaki Sauce,Highly Compatible
+Pineapple,Shrimp,Bell Pepper,Highly Compatible
+Pineapple,Cream Cheese,Walnuts,Moderately Compatible
+Pineapple,Coconut Milk,Banana,Highly Compatible
+Pineapple,Mint,Lime,Highly Compatible
+Pineapple,Cottage Cheese,Almonds,Highly Compatible
+Pineapple,Greek Yogurt,Honey,Highly Compatible
+Pineapple,Strawberry,Basil,Moderately Compatible
+Pineapple,Kiwi,Blueberries,Moderately Compatible
+Pineapple,Avocado,Red Onion,Highly Compatible
+Pineapple,Raspberry,Vanilla Ice Cream,Highly Compatible
+Pineapple,Ginger,Cucumber,Highly Compatible
+Pineapple,Orange,Mint,Highly Compatible
+Pineapple,Spinach,Feta Cheese,Highly Compatible
+Pineapple,Brown Sugar,Cinnamon,Highly Compatible
+Pineapple,Pomegranate Seeds,Yogurt,Highly Compatible
+Pineapple,Blue Cheese,Walnuts,Highly Compatible
+Pineapple,Coconut Water,Lime,Highly Compatible
+Pineapple,Papaya,Coconut Flakes,Moderately Compatible
+Pineapple,Kiwi,Coconut Milk,Highly Compatible
+Pineapple,Prosciutto,Goat Cheese,Highly Compatible
+Pineapple,Mango,Chili Powder,Highly Compatible
+Pineapple,Pine Nuts,Arugula,Moderately Compatible
+Pineapple,Balsamic Vinegar,Strawberry,Highly Compatible
+Pineapple,Pineapple Juice,Rum,Highly Compatible
+Pineapple,BBQ Sauce,Chicken,Highly Compatible
+Pineapple,Cinnamon,Vanilla Yogurt,Highly Compatible
+Mango,Coconut,Pineapple,Highly Compatible
+Mango,Chili Powder,Lime,Highly Compatible
+Mango,Cucumber,Red Onion,Highly Compatible
+Mango,Mint,Lime,Highly Compatible
+Mango,Basil,Mozzarella,Highly Compatible
+Mango,Shrimp,Avocado,Highly Compatible
+Mango,Greek Yogurt,Honey,Highly Compatible
+Mango,Jalapeno,Cilantro,Highly Compatible
+Mango,Prosciutto,Goat Cheese,Highly Compatible
+Mango,Strawberries,Balsamic Glaze,Highly Compatible
+Mango,Kiwi,Blueberries,Moderately Compatible
+Mango,Papaya,Coconut Milk,Moderately Compatible
+Mango,Raspberry,Vanilla Ice Cream,Moderately Compatible
+Mango,Pine Nuts,Arugula,Moderately Compatible
+Mango,Strawberry,Basil,Moderately Compatible
+Mango,Kiwi,Coconut Milk,Moderately Compatible
+Mango,Brown Sugar,Cinnamon,Moderately Compatible
+Mango,Cucumber,Yogurt,Moderately Compatible
+Mango,Watermelon,Feta Cheese,Moderately Compatible
+Mango,Lime,Mint,Moderately Compatible
+Mango,Orange,Mint,Compatible
+Mango,Banana,Greek Yogurt,Compatible
+Mango,Blue Cheese,Walnuts,Compatible
+Mango,Honey,Lime,Compatible
+Mango,Pineapple Juice,Rum,Compatible
+Mango,Vanilla Yogurt,Granola,Compatible
+Mango,Chia Seeds,Almond Milk,Compatible
+Mango,Oats,Coconut Water,Compatible
+Mango,Dark Chocolate,Pistachios,Compatible
+Mango,Green Tea,Honey,Compatible
+Banana,Peanut Butter,Honey,Highly Compatible
+Banana,Chocolate Chips,Almond Milk,Highly Compatible
+Banana,Greek Yogurt,Strawberries,Highly Compatible
+Banana,Oats,Almond Butter,Highly Compatible
+Banana,Mango,Coconut Water,Highly Compatible
+Banana,Cinnamon,Greek Yogurt,Highly Compatible
+Banana,Blueberries,Almond Milk,Highly Compatible
+Banana,Chia Seeds,Coconut Milk,Highly Compatible
+Banana,Kiwi,Greek Yogurt,Moderately Compatible
+Banana,Strawberry,Chocolate Syrup,Moderately Compatible
+Banana,Pineapple,Mango,Moderately Compatible
+Banana,Granola,Honey,Moderately Compatible
+Banana,Almond Butter,Blueberries,Moderately Compatible
+Banana,Coconut Flakes,Kiwi,Moderately Compatible
+Banana,Dark Chocolate,Hazelnuts,Moderately Compatible
+Banana,Raspberry,Vanilla Yogurt,Moderately Compatible
+Banana,Apple,Cinnamon,Compatible
+Banana,Orange,Greek Yogurt,Compatible
+Banana,Spinach,Pineapple,Compatible
+Banana,Strawberry,Kiwi,Compatible
+Banana,Coconut Water,Lime,Compatible
+Banana,Mango,Orange Juice,Compatible
+Banana,Almond Milk,Chia Seeds,Compatible
+Banana,Honey,Walnuts,Compatible
+Banana,Blue Cheese,Pecans,Compatible
+Salmon,Dill,Lemon,Highly Compatible
+Salmon,Garlic,Butter,Highly Compatible
+Salmon,Honey,Soy Sauce,Highly Compatible
+Salmon,Lemon,Capers,Highly Compatible
+Salmon,Maple Syrup,Mustard,Highly Compatible
+Salmon,Pesto,Cherry Tomatoes,Highly Compatible
+Salmon,Teriyaki Sauce,Green Onions,Highly Compatible
+Salmon,Basil,Tomato,Highly Compatible
+Salmon,Cilantro,Lime,Highly Compatible
+Salmon,Sesame Seeds,Ginger,Highly Compatible
+Salmon,Spinach,Feta Cheese,Moderately Compatible
+Salmon,Dijon Mustard,Maple Glaze,Moderately Compatible
+Salmon,Orange,Thyme,Moderately Compatible
+Salmon,Brown Sugar,Bourbon,Moderately Compatible
+Salmon,White Wine,Shallots,Moderately Compatible
+Salmon,Parmesan Cheese,Asparagus,Moderately Compatible
+Salmon,Mango,Avocado,Moderately Compatible
+Salmon,Cucumber,Greek Yogurt,Moderately Compatible
+Salmon,Coconut Milk,Lime,Moderately Compatible
+Salmon,Balsamic Glaze,Strawberry,Moderately Compatible
+Salmon,Tomato,Basil,Compatible
+Salmon,Asparagus,Lemon,Compatible
+Salmon,Quinoa,Kale,Compatible
+Salmon,Bell Pepper,Zucchini,Compatible
+Salmon,Broccoli,Garlic,Compatible
+Salmon,Mango,Pineapple,Compatible
+Salmon,Rice,Green Beans,Compatible
+Salmon,Caper Sauce,Artichokes,Compatible
+Salmon,Brown Rice,Teriyaki Glaze,Compatible
+Salmon,Blueberries,Almonds,Compatible
+Eggs,Spinach,Feta Cheese,Highly Compatible
+Eggs,Avocado,Tomato,Highly Compatible
+Eggs,Smoked Salmon,Cream Cheese,Highly Compatible
+Eggs,Cheddar Cheese,Bacon,Highly Compatible
+Eggs,Mushrooms,Thyme,Highly Compatible
+Eggs,Spinach,Hollandaise Sauce,Highly Compatible
+Eggs,Sausage,Bell Peppers,Highly Compatible
+Eggs,Tomato,Basil,Highly Compatible
+Eggs,Asparagus,Parmesan Cheese,Highly Compatible
+Eggs,Broccoli,Cheddar Cheese,Highly Compatible
+Eggs,Red Onion,Bell Peppers,Moderately Compatible
+Eggs,Feta Cheese,Olives,Moderately Compatible
+Eggs,Ham,Swiss Cheese,Moderately Compatible
+Eggs,Spinach,Mushrooms,Moderately Compatible
+Eggs,Chives,Goat Cheese,Moderately Compatible
+Eggs,Tomato,Mozzarella,Moderately Compatible
+Eggs,Avocado,Sriracha,Moderately Compatible
+Eggs,Zucchini,Parmesan Cheese,Moderately Compatible
+Eggs,Bacon,Jalapeno,Moderately Compatible
+Eggs,Cilantro,Salsa,Moderately Compatible
+Eggs,Smoked Paprika,Potatoes,Compatible
+Eggs,Cinnamon,Maple Syrup,Compatible
+Eggs,Blueberries,Almonds,Compatible
+Eggs,Banana,Greek Yogurt,Compatible
+Eggs,Vanilla Extract,Strawberries,Compatible
+Eggs,Cheddar Cheese,Green Onion,Compatible
+Eggs,Salmon,Cream Cheese,Compatible
+Eggs,Mushroom,Swiss Cheese,Compatible
+Eggs,Artichokes,Sundried Tomatoes,Compatible
+Eggs,Smoked Salmon,Dill,Compatible
+Chicken,Rosemary,Lemon,Highly Compatible
+Chicken,Garlic,Butter,Highly Compatible
+Chicken,Honey,Mustard,Highly Compatible
+Chicken,Lemon,Capers,Highly Compatible
+Chicken,BBQ Sauce,Pineapple,Highly Compatible
+Chicken,Pesto,Cherry Tomatoes,Highly Compatible
+Chicken,Teriyaki Sauce,Green Onions,Highly Compatible
+Chicken,Basil,Tomato,Highly Compatible
+Chicken,Cilantro,Lime,Highly Compatible
+Chicken,Sesame Seeds,Ginger,Highly Compatible
+Beef,Garlic,Rosemary,Highly Compatible
+Beef,Mushroom,Thyme,Highly Compatible
+Beef,Red Wine,Shallots,Highly Compatible
+Beef,Blue Cheese,Balsamic Glaze,Highly Compatible
+Beef,Sage,Brown Butter,Highly Compatible
+Beef,Dijon Mustard,Peppercorns,Highly Compatible
+Beef,Red Onion,Gorgonzola,Highly Compatible
+Beef,Horseradish,Parmesan Cheese,Highly Compatible
+Beef,Asparagus,Hollandaise Sauce,Highly Compatible
+Beef,Chimichurri Sauce,Red Pepper Flakes,Highly Compatible
+Pork,Apple,Sage,Highly Compatible
+Pork,Maple Syrup,Mustard,Highly Compatible
+Pork,Rosemary,Garlic,Highly Compatible
+Pork,Brown Sugar,Bourbon,Highly Compatible
+Pork,Pineapple,BBQ Sauce,Highly Compatible
+Pork,Thyme,Dijon Mustard,Highly Compatible
+Pork,Honey,Soy Sauce,Highly Compatible
+Pork,Jalapeno,Pineapple,Highly Compatible
+Pork,Cider Vinegar,Onions,Highly Compatible
+Pork,Paprika,Garlic Powder,Highly Compatible
+Chicken,Rosemary,Lemon,Highly Compatible
+Chicken,Garlic,Butter,Highly Compatible
+Chicken,Honey,Mustard,Highly Compatible
+Chicken,Lemon,Capers,Highly Compatible
+Chicken,BBQ Sauce,Pineapple,Moderately Compatible
+Chicken,Pesto,Cherry Tomatoes,Moderately Compatible
+Chicken,Teriyaki Sauce,Green Onions,Moderately Compatible
+Chicken,Basil,Tomato,Moderately Compatible
+Chicken,Cilantro,Lime,Moderately Compatible
+Chicken,Sesame Seeds,Ginger,Moderately Compatible
+Beef,Garlic,Rosemary,Highly Compatible
+Beef,Mushroom,Thyme,Highly Compatible
+Beef,Red Wine,Shallots,Highly Compatible
+Beef,Blue Cheese,Balsamic Glaze,Moderately Compatible
+Beef,Sage,Brown Butter,Moderately Compatible
+Beef,Dijon Mustard,Peppercorns,Moderately Compatible
+Beef,Red Onion,Gorgonzola,Moderately Compatible
+Beef,Horseradish,Parmesan Cheese,Moderately Compatible
+Beef,Asparagus,Hollandaise Sauce,Moderately Compatible
+Beef,Chimichurri Sauce,Red Pepper Flakes,Moderately Compatible
+Pork,Apple,Sage,Highly Compatible
+Pork,Maple Syrup,Mustard,Highly Compatible
+Pork,Rosemary,Garlic,Highly Compatible
+Pork,Brown Sugar,Bourbon,Moderately Compatible
+Pork,Pineapple,BBQ Sauce,Moderately Compatible
+Pork,Thyme,Dijon Mustard,Moderately Compatible
+Pork,Honey,Soy Sauce,Moderately Compatible
+Pork,Jalapeno,Pineapple,Moderately Compatible
+Pork,Cider Vinegar,Onions,Moderately Compatible
+Pork,Paprika,Garlic Powder,Moderately Compatible
+Chicken,Cilantro,Pineapple,Compatible
+Beef,Blueberries,Almonds,Compatible
+Pork,Mango,Avocado,Compatible
+Chicken,Tomato,Basil,Compatible
+Beef,Salmon,Cream Cheese,Compatible
+Pork,Apple,Cinnamon,Compatible
+Chicken,Pomegranate Seeds,Walnuts,Compatible
+Beef,Quinoa,Kale,Compatible
+Pork,Bacon,Jalapeno,Compatible
+Chicken,Asparagus,Lemon,Compatible
+Walnuts,Blue Cheese,Pear,Highly Compatible
+Walnuts,Apple,Honey,Highly Compatible
+Walnuts,Spinach,Feta Cheese,Highly Compatible
+Walnuts,Banana,Greek Yogurt,Highly Compatible
+Walnuts,Fig,Goat Cheese,Highly Compatible
+Walnuts,Roasted Beets,Goat Cheese,Highly Compatible
+Walnuts,Strawberry,Balsamic Glaze,Highly Compatible
+Walnuts,Brussels Sprouts,Maple Syrup,Highly Compatible
+Walnuts,Avocado,Blue Cheese,Highly Compatible
+Walnuts,Pear,Arugula,Highly Compatible
+Walnuts,Pomegranate Seeds,Goat Cheese,Highly Compatible
+Walnuts,Butternut Squash,Sage,Highly Compatible
+Walnuts,Cranberries,Brie Cheese,Highly Compatible
+Walnuts,Sweet Potato,Cinnamon,Highly Compatible
+Walnuts,Prosciutto,Fig,Highly Compatible
+Walnuts,Pumpkin,Cream Cheese,Highly Compatible
+Walnuts,Ricotta,Honey,Highly Compatible
+Walnuts,Orange,Dark Chocolate,Highly Compatible
+Walnuts,Grapes,Gouda Cheese,Highly Compatible
+Walnuts,Watercress,Goat Cheese,Highly Compatible
+Walnuts,Mango,Greek Yogurt,Moderately Compatible
+Walnuts,Cherry Tomatoes,Mozzarella,Moderately Compatible
+Walnuts,Cranberries,Quinoa,Moderately Compatible
+Walnuts,Orange,Arugula,Moderately Compatible
+Walnuts,Pineapple,Coconut Milk,Moderately Compatible
+Walnuts,Kiwi,Honey,Moderately Compatible
+Walnuts,Chocolate,Coconut,Moderately Compatible
+Walnuts,Almond Milk,Oats,Moderately Compatible
+Walnuts,Raspberry,Lemon,Moderately Compatible
+Walnuts,Pistachios,Feta Cheese,Moderately Compatible
+Walnuts,Chocolate Chips,Banana,Moderately Compatible
+Walnuts,Avocado,Lime,Moderately Compatible
+Walnuts,Hazelnuts,Dark Chocolate,Moderately Compatible
+Walnuts,Cinnamon,Maple Syrup,Moderately Compatible
+Walnuts,Balsamic Vinegar,Strawberries,Moderately Compatible
+Walnuts,Vanilla Yogurt,Blueberries,Moderately Compatible
+Walnuts,Pomegranate Seeds,Spinach,Moderately Compatible
+Walnuts,Mango,Coconut Water,Moderately Compatible
+Walnuts,Raspberry,White Chocolate,Moderately Compatible
+Walnuts,Peach,Goat Cheese,Moderately Compatible
+Walnuts,Mango,Chili Powder,Compatible
+Walnuts,Kiwi,Blueberries,Compatible
+Walnuts,Apple,Cinnamon,Compatible
+Walnuts,Banana,Greek Yogurt,Compatible
+Walnuts,Orange,Goat Cheese,Compatible
+Walnuts,Almond Butter,Honey,Compatible
+Walnuts,Dark Chocolate,Strawberries,Compatible
+Walnuts,Hazelnuts,Vanilla Ice Cream,Compatible
+Walnuts,Pineapple,Coconut Milk,Compatible
+Walnuts,Pecans,Maple Syrup,Compatible
+Walnuts,Avocado,Lime,Compatible
+Walnuts,Blue Cheese,Honey,Compatible
+Walnuts,Banana,Chocolate Chips,Compatible
+Walnuts,Raspberry,Balsamic Glaze,Compatible
+Walnuts,Pistachios,Greek Yogurt,Compatible
+Walnuts,Coconut,Chocolate Chips,Compatible
+Walnuts,Cherry Tomatoes,Mozzarella,Compatible
+Walnuts,Mango,Coconut Water,Compatible
+Walnuts,Pomegranate Seeds,Goat Cheese,Compatible
+Walnuts,Pumpkin,Cream Cheese,Compatible
+Avocado,Tomato,Lime,Highly Compatible
+Avocado,Cilantro,Red Onion,Highly Compatible
+Avocado,Feta Cheese,Olive Oil,Highly Compatible
+Avocado,Corn,Black Beans,Highly Compatible
+Avocado,Mango,Chili Powder,Highly Compatible
+Avocado,Shrimp,Cilantro,Highly Compatible
+Avocado,Greek Yogurt,Dill,Highly Compatible
+Avocado,Chickpeas,Lemon,Highly Compatible
+Avocado,Bacon,Cherry Tomatoes,Highly Compatible
+Avocado,Smoked Salmon,Cream Cheese,Highly Compatible
+Avocado,Balsamic Vinegar,Strawberry,Highly Compatible
+Avocado,Pomegranate Seeds,Goat Cheese,Highly Compatible
+Avocado,Radish,Arugula,Highly Compatible
+Avocado,Pico de Gallo,Lime,Highly Compatible
+Avocado,Quinoa,Cucumber,Highly Compatible
+Avocado,Eggs,Spinach,Highly Compatible
+Avocado,Blue Cheese,Walnuts,Highly Compatible
+Avocado,Pistachios,Feta Cheese,Highly Compatible
+Avocado,Watermelon,Mint,Highly Compatible
+Avocado,Prosciutto,Mozzarella,Highly Compatible
+Avocado,Pineapple,Coconut Milk,Moderately Compatible
+Avocado,Almond Butter,Banana,Moderately Compatible
+Avocado,Blueberries,Greek Yogurt,Moderately Compatible
+Avocado,Pomegranate Seeds,Quinoa,Moderately Compatible
+Avocado,Mango,Coconut Water,Moderately Compatible
+Avocado,Tomato,Basil,Moderately Compatible
+Avocado,Strawberry,Balsamic Glaze,Moderately Compatible
+Avocado,Cucumber,Red Onion,Moderately Compatible
+Avocado,Kiwi,Lime,Moderately Compatible
+Avocado,Chicken,Cilantro,Moderately Compatible
+Avocado,Brown Rice,Sesame Seeds,Moderately Compatible
+Avocado,Spinach,Feta Cheese,Moderately Compatible
+Avocado,Bell Pepper,Hummus,Moderately Compatible
+Avocado,Asparagus,Lemon,Moderately Compatible
+Avocado,Walnut,Goat Cheese,Moderately Compatible
+Avocado,Bacon,Ranch Dressing,Moderately Compatible
+Avocado,Mango,Chili Powder,Moderately Compatible
+Avocado,Eggplant,Mozzarella,Moderately Compatible
+Avocado,Avocado,Tomato,Moderately Compatible
+Avocado,Avocado,Avocado,Moderately Compatible
+Avocado,Tomato,Mozzarella,Compatible
+Avocado,Cucumber,Lemon,Compatible
+Avocado,Feta Cheese,Olive Oil,Compatible
+Avocado,Chickpeas,Red Onion,Compatible
+Avocado,Corn,Black Beans,Compatible
+Avocado,Mango,Jalapeno,Compatible
+Avocado,Shrimp,Lime,Compatible
+Avocado,Quinoa,Cherry Tomatoes,Compatible
+Avocado,Eggs,Spinach,Compatible
+Avocado,Brown Rice,Sesame Seeds,Compatible
+Avocado,Bacon,Ranch Dressing,Compatible
+Avocado,Almond Butter,Banana,Compatible
+Avocado,Blueberries,Greek Yogurt,Compatible
+Avocado,Pomegranate Seeds,Goat Cheese,Compatible
+Avocado,Pineapple,Coconut Milk,Compatible
+Avocado,Avocado,Avocado,Compatible
+Avocado,Kiwi,Strawberry,Compatible
+Avocado,Mango,Coconut Water,Compatible
+Avocado,Walnut,Blue Cheese,Compatible
+Avocado,Prosciutto,Arugula,Compatible
+Lemon,Garlic,Olive Oil,Highly Compatible
+Lemon,Rosemary,Chicken,Highly Compatible
+Lemon,Basil,Tomato,Highly Compatible
+Lemon,Honey,Salmon,Highly Compatible
+Lemon,Mint,Watermelon,Highly Compatible
+Lemon,Avocado,Cilantro,Highly Compatible
+Lemon,Feta Cheese,Quinoa,Highly Compatible
+Lemon,Ginger,Green Tea,Highly Compatible
+Lemon,Shrimp,Pasta,Highly Compatible
+Lemon,Blueberries,Greek Yogurt,Highly Compatible
+Chickpeas,Cumin,Olive Oil,Highly Compatible
+Chickpeas,Tomato,Feta Cheese,Highly Compatible
+Chickpeas,Lemon,Garlic,Highly Compatible
+Chickpeas,Spinach,Curry,Highly Compatible
+Chickpeas,Bell Pepper,Quinoa,Highly Compatible
+Chickpeas,Avocado,Tahini,Highly Compatible
+Chickpeas,Chickpeas,Hummus,Highly Compatible
+Chickpeas,Shrimp,Lemon,Highly Compatible
+Chickpeas,Blueberries,Almond Butter,Highly Compatible
+Chickpeas,Mango,Cilantro,Highly Compatible
+Shrimp,Garlic,Butter,Highly Compatible
+Shrimp,Lemon,Garlic,Highly Compatible
+Shrimp,Cajun Seasoning,Bell Pepper,Highly Compatible
+Shrimp,Lime,Cilantro,Highly Compatible
+Shrimp,Tomato,Basil,Highly Compatible
+Shrimp,Avocado,Lime,Highly Compatible
+Shrimp,Lemon,Dill,Highly Compatible
+Shrimp,Parmesan Cheese,Pasta,Highly Compatible
+Shrimp,Shrimp,Garlic,Highly Compatible
+Shrimp,Coconut Milk,Curry,Highly Compatible
+Blueberries,Greek Yogurt,Honey,Highly Compatible
+Blueberries,Almond Milk,Chia Seeds,Highly Compatible
+Blueberries,Oats,Banana,Highly Compatible
+Blueberries,Lemon,Mint,Highly Compatible
+Blueberries,Vanilla Extract,Coconut Milk,Highly Compatible
+Blueberries,Blueberries,Yogurt,Highly Compatible
+Blueberries,Banana,Peanut Butter,Highly Compatible
+Blueberries,Spinach,Almond Butter,Highly Compatible
+Blueberries,Blueberries,Mango,Highly Compatible
+Blueberries,Raspberry,Vanilla Yogurt,Highly Compatible
+Lemon,Rosemary,Potato,Moderately Compatible
+Lemon,Thyme,Asparagus,Moderately Compatible
+Lemon,Brown Sugar,Cinnamon,Moderately Compatible
+Lemon,Blueberries,Greek Yogurt,Moderately Compatible
+Lemon,Honey,Mint,Moderately Compatible
+Lemon,Shrimp,Mango,Moderately Compatible
+Lemon,Basil,Pine Nuts,Moderately Compatible
+Lemon,Avocado,Bell Pepper,Moderately Compatible
+Lemon,Spinach,Feta Cheese,Moderately Compatible
+Lemon,Pomegranate Seeds,Goat Cheese,Moderately Compatible
+Chickpeas,Lemon,Tomato,Moderately Compatible
+Chickpeas,Spinach,Lemon,Moderately Compatible
+Chickpeas,Red Onion,Cucumber,Moderately Compatible
+Chickpeas,Garlic,Brown Rice,Moderately Compatible
+Chickpeas,Bell Pepper,Quinoa,Moderately Compatible
+Chickpeas,Chickpeas,Avocado,Moderately Compatible
+Chickpeas,Mango,Chili Powder,Moderately Compatible
+Chickpeas,Shrimp,Garlic,Moderately Compatible
+Chickpeas,Blueberries,Feta Cheese,Moderately Compatible
+Chickpeas,Almond Butter,Banana,Moderately Compatible
+Shrimp,Lemon,Brown Butter,Moderately Compatible
+Shrimp,Dijon Mustard,Maple Glaze,Moderately Compatible
+Shrimp,Lemon,Garlic,Moderately Compatible
+Shrimp,Tomato,Basil,Moderately Compatible
+Shrimp,Avocado,Lime,Moderately Compatible
+Shrimp,Bell Pepper,Zucchini,Moderately Compatible
+Shrimp,Shrimp,Garlic,Moderately Compatible
+Shrimp,Mango,Coconut Water,Moderately Compatible
+Shrimp,Cilantro,Lime,Moderately Compatible
+Shrimp,Pineapple,Teriyaki Glaze,Moderately Compatible
+Blueberries,Almond Milk,Oats,Moderately Compatible
+Blueberries,Banana,Greek Yogurt,Moderately Compatible
+Blueberries,Mango,Vanilla Yogurt,Moderately Compatible
+Blueberries,Coconut,Chia Seeds,Moderately Compatible
+Blueberries,Blueberries,Raspberry,Moderately Compatible
+Blueberries,Spinach,Almond Butter,Moderately Compatible
+Blueberries,Pomegranate Seeds,Quinoa,Moderately Compatible
+Blueberries,Cucumber,Lime,Moderately Compatible
+Blueberries,Mango,Avocado,Moderately Compatible
+Blueberries,Vanilla Extract,Coconut Milk,Moderately Compatible
+Lemon,Olive Oil,Basil,Compatible
+Lemon,Cilantro,Garlic,Compatible
+Lemon,Honey,Thyme,Compatible
+Lemon,Avocado,Tomato,Compatible
+Lemon,Lemon,Blueberries,Compatible
+Lemon,Ginger,Mint,Compatible
+Lemon,Feta Cheese,Watermelon,Compatible
+Lemon,Shrimp,Pasta,Compatible
+Lemon,Blueberries,Greek Yogurt,Compatible
+Lemon,Brown Sugar,Cinnamon,Compatible
+Chickpeas,Olive Oil,Feta Cheese,Compatible
+Chickpeas,Red Onion,Lemon,Compatible
+Chickpeas,Cumin,Garlic,Compatible
+Chickpeas,Avocado,Spinach,Compatible
+Chickpeas,Lemon,Quinoa,Compatible
+Chickpeas,Chickpeas,Tomato,Compatible
+Chickpeas,Mango,Cilantro,Compatible
+Chickpeas,Blueberries,Almond Butter,Compatible
+Chickpeas,Bell Pepper,Hummus,Compatible
+Chickpeas,Shrimp,Garlic,Compatible
+Shrimp,Lemon,Garlic,Compatible
+Shrimp,Lime,Cilantro,Compatible
+Shrimp,Lemon,Butter,Compatible
+Shrimp,Tomato,Basil,Compatible
+Shrimp,Avocado,Lime,Compatible
+Shrimp,Shrimp,Garlic,Compatible
+Shrimp,Mango,Teriyaki Glaze,Compatible
+Shrimp,Coconut Milk,Curry,Compatible
+Shrimp,Pineapple,Lime,Compatible
+Shrimp,Lemon,Dill,Compatible
+Blueberries,Greek Yogurt,Honey,Compatible
+Blueberries,Almond Milk,Oats,Compatible
+Blueberries,Banana,Vanilla Yogurt,Compatible
+Blueberries,Blueberries,Raspberry,Compatible
+Blueberries,Vanilla Extract,Coconut Milk,Compatible
+Blueberries,Blueberries,Yogurt,Compatible
+Blueberries,Spinach,Almond Butter,Compatible
+Blueberries,Pomegranate Seeds,Quinoa,Compatible
+Blueberries,Cucumber,Lime,Compatible
+Blueberries,Mango,Avocado,Compatible
+Potato,Rosemary,Garlic,Highly Compatible
+Potato,Olive Oil,Thyme,Highly Compatible
+Potato,Parmesan Cheese,Broccoli,Highly Compatible
+Potato,Cheddar Cheese,Bacon,Highly Compatible
+Potato,Sour Cream,Chives,Highly Compatible
+Potato,Mushrooms,Onions,Highly Compatible
+Potato,Garlic,Paprika,Highly Compatible
+Potato,Dill,Lemon,Highly Compatible
+Potato,Tomato,Basil,Highly Compatible
+Potato,Cumin,Coriander,Highly Compatible
+Potato,Rosemary,Lemon,Highly Compatible
+Potato,Cilantro,Lime,Highly Compatible
+Potato,Garlic,Parmesan Cheese,Highly Compatible
+Potato,Bacon,Ranch Dressing,Highly Compatible
+Potato,BBQ Sauce,Green Onions,Highly Compatible
+Potato,Cumin,Paprika,Moderately Compatible
+Potato,Rosemary,Brown Butter,Moderately Compatible
+Potato,Cheddar Cheese,Jalapeno,Moderately Compatible
+Potato,Bell Pepper,Corn,Moderately Compatible
+Potato,Parmesan Cheese,Spinach,Moderately Compatible
+Potato,Tomato,Oregano,Moderately Compatible
+Potato,Garlic,Soy Sauce,Moderately Compatible
+Potato,Thyme,Lemon,Moderately Compatible
+Potato,Garlic,Mushrooms,Moderately Compatible
+Potato,BBQ Sauce,Chicken,Moderately Compatible
+Potato,Brown Sugar,Cinnamon,Moderately Compatible
+Potato,Pesto,Sun-Dried Tomatoes,Moderately Compatible
+Potato,Cilantro,Coconut Milk,Moderately Compatible
+Potato,Blue Cheese,Walnuts,Moderately Compatible
+Potato,Maple Syrup,Bacon,Moderately Compatible
+Potato,Butter,Parsley,Compatible
+Potato,Olive Oil,Rosemary,Compatible
+Potato,Lemon,Dijon Mustard,Compatible
+Potato,Honey,Mustard,Compatible
+Potato,Garlic,Onion Powder,Compatible
+Potato,Thyme,Basil,Compatible
+Potato,Parmesan Cheese,Black Pepper,Compatible
+Potato,Paprika,Garlic Powder,Compatible
+Potato,Cilantro,Lime,Compatible
+Potato,Sour Cream,Green Onions,Compatible
+Potato,Tomato,Bell Pepper,Compatible
+Potato,BBQ Sauce,Pineapple,Compatible
+Potato,Garlic,Chives,Compatible
+Potato,Cheddar Cheese,Broccoli,Compatible
